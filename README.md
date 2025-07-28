@@ -56,3 +56,9 @@ cd todolist
 # 3. Execute a aplicação com Maven
 ./mvnw spring-boot:run  
 ``` 
+
+### 🔧 Testando Remotamente
+
+
+- [TodoList](https://minicurso-java-springboot-rocketseat.onrender.com) 
+
