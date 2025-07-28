@@ -95,10 +95,11 @@ cd todolist
 }
 ```
 
-    - ex:Delete 
+
 - https://minicurso-java-springboot-rocketseat.onrender.com/tasks/{id}
+    - ex:Delete 
    
     
-    - ex:get
 - https://minicurso-java-springboot-rocketseat.onrender.com/tasks
+    - ex:get
 
