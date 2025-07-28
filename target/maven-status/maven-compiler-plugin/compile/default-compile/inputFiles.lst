@@ -1,0 +1,11 @@
+/home/glaulher/Documentos/Project/todolist/src/main/java/com/glaulher/todolist/TodolistApplication.java
+/home/glaulher/Documentos/Project/todolist/src/main/java/com/glaulher/todolist/exceptions/GlobalExceptionHandler.java
+/home/glaulher/Documentos/Project/todolist/src/main/java/com/glaulher/todolist/exceptions/TitleTooLongException.java
+/home/glaulher/Documentos/Project/todolist/src/main/java/com/glaulher/todolist/filter/FilterTaskAuth.java
+/home/glaulher/Documentos/Project/todolist/src/main/java/com/glaulher/todolist/task/ITaskRepository.java
+/home/glaulher/Documentos/Project/todolist/src/main/java/com/glaulher/todolist/task/TaskController.java
+/home/glaulher/Documentos/Project/todolist/src/main/java/com/glaulher/todolist/task/TaskModel.java
+/home/glaulher/Documentos/Project/todolist/src/main/java/com/glaulher/todolist/user/IUserRepository.java
+/home/glaulher/Documentos/Project/todolist/src/main/java/com/glaulher/todolist/user/UserController.java
+/home/glaulher/Documentos/Project/todolist/src/main/java/com/glaulher/todolist/user/UserModel.java
+/home/glaulher/Documentos/Project/todolist/src/main/java/com/glaulher/todolist/utils/Utils.java

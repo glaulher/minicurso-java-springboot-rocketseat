@@ -1,0 +1,11 @@
+com/glaulher/todolist/task/TaskController.class
+com/glaulher/todolist/exceptions/TitleTooLongException.class
+com/glaulher/todolist/user/UserModel.class
+com/glaulher/todolist/user/IUserRepository.class
+com/glaulher/todolist/task/TaskModel.class
+com/glaulher/todolist/user/UserController.class
+com/glaulher/todolist/TodolistApplication.class
+com/glaulher/todolist/filter/FilterTaskAuth.class
+com/glaulher/todolist/utils/Utils.class
+com/glaulher/todolist/exceptions/GlobalExceptionHandler.class
+com/glaulher/todolist/task/ITaskRepository.class
