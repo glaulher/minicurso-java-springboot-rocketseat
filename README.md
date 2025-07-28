@@ -60,5 +60,45 @@ cd todolist
 ### 🔧 Testando Remotamente
 
 
-- [TodoList](https://minicurso-java-springboot-rocketseat.onrender.com) 
+
+- https://minicurso-java-springboot-rocketseat.onrender.com/user  
+    - ex:Post
+
+```json
+{
+    "name": "meuNome",
+    "username": "meuUserName",
+    "password": 123456
+}
+```
+- https://minicurso-java-springboot-rocketseat.onrender.com/tasks
+    - ex:Post
+
+```json
+{   
+    "description": "Tarefa todolist com java",
+    "title": "aula de java2",
+    "startAt": "2025-10-06T12:30:30",
+    "endAt": "2025-10-07T12:30:30",
+    "priority": "ALTA"    
+
+}
+```
+
+- https://minicurso-java-springboot-rocketseat.onrender.com/tasks/{id}
+    - ex:Put
+
+```json
+{   
+    "description": "Tarefa todolist com java",
+   
+}
+```
+
+    - ex:Delete 
+- https://minicurso-java-springboot-rocketseat.onrender.com/tasks/{id}
+   
+    
+    - ex:get
+- https://minicurso-java-springboot-rocketseat.onrender.com/tasks
 
